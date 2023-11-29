@@ -10,7 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
 		window.location.href = 'auth.html'
 	}
 
-	//? If data is found, render the data on the page
+	//? If data is found, log and render the data on the page
+	console.log('User Data: ', data)
 
 	const dataContainerEl = document.getElementById('user-data') //* data-container
 	const greetEl = document.getElementById('greet') //* greeting header
