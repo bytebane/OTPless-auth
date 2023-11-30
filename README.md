@@ -1,11 +1,8 @@
 # OTPless-auth
 
+> Deployed Website - [Click Here](https://otpless-auth.pages.dev/) or [W3spaces](https://otpless-bane.w3spaces.com/)
+
 ## Implementing [OTPless-auth](https://otpless.com/)
-
-## Deployed Links
-
-- [No logs in console](https://otpless-auth.pages.dev/)
-- [With user data in console](https://otpless-bane.w3spaces.com/)
 
 ## What is OTPless-auth?
 
