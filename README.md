@@ -2,6 +2,11 @@
 
 ## Implementing [OTPless-auth](https://otpless.com/)
 
+## Deployed Links
+
+- [No logs in console](https://otpless-auth.pages.dev/)
+- [With user data in console](https://otpless-bane.w3spaces.com/)
+
 ## What is OTPless-auth?
 
 > OTPLESS is a platform that enables secure, seamless, passwordless, and OTPLESS sign-ins for applications and websites across multiple platforms and frameworks. It supports various sign-in methods like WhatsApp, UPI, Google, Apple, GitHub, Slack, Microsoft, and more.
