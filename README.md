@@ -10,7 +10,7 @@
 
 - [HTML+CSS+JS](https://github.com/bytebane/OTPless-js-auth)
 - [ReactJS](https://github.com/bytebane/OTPless-react-auth)
-- [Firebase]('https://github.com/bytebane/OTPless-firebase-auth)
+- [Firebase](https://github.com/bytebane/OTPless-firebase-auth)
 
 ### Official Documentation for platform specific implementations can be found [here](https://otpless.com/platforms)
 
