@@ -1,0 +1,9 @@
+[submodule "OTPless-js-auth"]
+	path = OTPless-js-auth
+	url = https://github.com/bytebane/OTPless-js-auth
+[submodule "OTPless-react-auth"]
+	path = OTPless-react-auth
+	url = https://github.com/bytebane/OTPless-react-auth
+[submodule "OTPless-firebase-auth"]
+	path = OTPless-firebase-auth
+	url = https://github.com/bytebane/OTPless-firebase-auth
