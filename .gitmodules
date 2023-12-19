@@ -10,3 +10,6 @@
 [submodule "OTPless-vue-auth"]
 	path = OTPless-vue-auth
 	url = https://github.com/bytebane/OTPless-vue-auth
+[submodule "OTPless-node-auth"]
+	path = OTPless-node-auth
+	url = https://github.com/bytebane/OTPless-node-auth
