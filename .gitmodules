@@ -7,3 +7,6 @@
 [submodule "OTPless-firebase-auth"]
 	path = OTPless-firebase-auth
 	url = https://github.com/bytebane/OTPless-firebase-auth
+[submodule "OTPless-vue-auth"]
+	path = OTPless-vue-auth
+	url = https://github.com/bytebane/OTPless-vue-auth
