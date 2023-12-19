@@ -11,11 +11,16 @@ const examples = [
 	},
 	{
 		id: 003,
+		name: 'VueJS Auth',
+		url: 'https://github.com/bytebane/OTPless-vue-auth',
+	},
+	{
+		id: 004,
 		name: 'Firebase Auth',
 		url: 'https://github.com/bytebane/OTPless-firebase-auth',
 	},
 	{
-		id: 004,
+		id: 005,
 		name: 'Firebase+ReactJS Auth',
 		url: 'https://github.com/bytebane/OTPless-firebase-auth/tree/main/firebase-react-auth',
 	},
