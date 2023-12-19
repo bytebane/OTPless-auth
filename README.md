@@ -12,5 +12,11 @@
 - [ReactJS](https://github.com/bytebane/OTPless-react-auth)
 - [Firebase](https://github.com/bytebane/OTPless-firebase-auth)
 
-### Official Documentation for platform specific implementations can be found [here](https://otpless.com/platforms)
+***For intergation in WordPress, Shopify, etc. Check out [here](./no-code/README.md).***
 
+***Backend API Demo - [Postman Collection](./assets/OTPless%20-%20API.postman_collection.json).***
+
+> - Download and import into [Postman](https://www.postman.com/) app and add your CLIENT_ID and CLIENT_SECRET from OTPless dashboard to the respective variables in the root of the Postman Collection.
+> - Make API calls by filling the respective `params`/`Headers`/`body` wherever required in the `API requests`.
+
+### Official Documentation for platform specific implementations can be found [here](https://otpless.com/platforms)
