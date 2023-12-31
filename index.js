@@ -29,6 +29,11 @@ const examples = [
 		name: 'Firebase+ReactJS Auth',
 		url: 'https://github.com/bytebane/OTPless-firebase-auth/tree/main/firebase-react-auth',
 	},
+	{
+		id: 007,
+		name: 'Flutter Android Auth',
+		url: 'https://github.com/bytebane/OTPless-flutter-auth/',
+	},
 ]
 document.addEventListener('DOMContentLoaded', () => {
 	const appEL = document.getElementById('app')
