@@ -13,3 +13,6 @@
 [submodule "OTPless-node-auth"]
 	path = OTPless-node-auth
 	url = https://github.com/bytebane/OTPless-node-auth
+[submodule "OTPless-flutter-auth"]
+	path = OTPless-flutter-auth
+	url = https://github.com/bytebane/OTPless-flutter-auth/
