@@ -31,6 +31,11 @@ const examples = [
 	},
 	{
 		id: 007,
+		name: 'Android Auth',
+		url: 'https://github.com/bytebane/OTPless-android-auth/',
+	},
+	{
+		id: 008,
 		name: 'Flutter Android Auth',
 		url: 'https://github.com/bytebane/OTPless-flutter-auth/',
 	},

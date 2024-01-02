@@ -16,3 +16,6 @@
 [submodule "OTPless-flutter-auth"]
 	path = OTPless-flutter-auth
 	url = https://github.com/bytebane/OTPless-flutter-auth/
+[submodule "OTPless-android-auth"]
+	path = OTPless-android-auth
+	url = https://github.com/bytebane/OTPless-android-auth.git

@@ -14,6 +14,7 @@
 - [NodeJS](https://github.com/bytebane/OTPless-node-auth)
 - [Firebase](https://github.com/bytebane/OTPless-firebase-auth)
 - [Flutter](https://github.com/bytebane/OTPless-flutter-auth)
+- [Android](https://github.com/bytebane/OTPless-android-auth)
 
 ***For intergation in WordPress, Shopify, etc. Check out [here](./no-code/README.md).***
 
